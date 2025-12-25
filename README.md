@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**itz-anjali-27/itz-anjali-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Anjali Kumari</h1>
+<h3 align="center">Aspiring Data Analyst | Java & Web Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+🌱 Learning <b>Data Analytics, SQL & Power BI</b><br>
+💻 Interested in <b>Java, Python & Web Development</b><br>
+📊 Love working with <b>data & real-world projects</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🙋‍♀️ About Me  
+
+- 🔭 Currently working on *Data Analytics & Web projects*  
+- 📘 Learning *Advanced SQL, Power BI & Python*  
+- 👯 Open to collaborate on *student-friendly & open-source projects*  
+- 💬 Ask me about *Java, Python, SQL, HTML, CSS*  
+- ⚡ Fun fact: I enjoy converting ideas into useful projects  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="left">
+<a href="https://github.com/itz-anjali-27"><img src="https://img.shields.io/badge/GitHub-000…
