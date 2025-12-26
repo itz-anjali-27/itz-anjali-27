@@ -1,14 +1,3 @@
-<h1 align="center">Hi 👋, I'm Anjali Kumari</h1>
-<h3 align="center">Aspiring Data Analyst | Java & Web Developer</h3>
-
-<p align="center">
-🌱 Learning <b>Data Analytics, SQL & Power BI</b><br>
-💻 Interested in <b>Java, Python & Web Development</b><br>
-📊 Love working with <b>data & real-world projects</b>
-</p>
-
----
-
 ## 🙋‍♀️ About Me  
 
 - 🔭 Currently working on *Data Analytics & Web projects*  
@@ -29,23 +18,30 @@
 
 ---
 
-## 🛠️ Tech Stack  
-
-### 👩‍💻 Programming & Web  
+## 🧰 Data, Tools & Tech Stack
 <p>
-<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"/>
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
-</p>
+  <!-- Programming -->
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=mysql"/>
 
-### 📊 Data & Tools  
-<p>
-<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+  <!-- Data Science / ML -->
+  <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge&logo=plotly"/>
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react"/>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel"/>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </p>
 
 ---
@@ -54,7 +50,8 @@
 - 🛒 *Amazon Clone* – HTML & CSS  
 - 🧮 *Calculator App* – HTML, CSS & JS  
 - 📋 *To-Do List* – JavaScript  
-- 📊 *Data Analysis Projects* – Python & SQL  
+- 📊 *Data Analysis Projects* – Python & SQL
+- 🎬 *YouTube Clone* — React.js
 
 ---
 
